@@ -14,7 +14,6 @@ def solution(vals: list[str]):
 
 def solution_part_two(items: list[str]):
 
-
     vals = {
         "one": "1",
         "two": "2",
