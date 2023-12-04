@@ -67,7 +67,6 @@ def solution_part_two(lines: list[str]):
     return res
 
 
-
 if __name__ == '__main__':
     file_path = "./day_two.txt"
     with open(file_path, 'r') as file:
