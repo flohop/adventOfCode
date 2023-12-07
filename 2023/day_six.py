@@ -10,6 +10,7 @@ def helper(lines: list[str]):
 
     return list(zip(times, distance))
 
+
 def helper_2(lines: list[str]):
     """
     Always expect two lines
