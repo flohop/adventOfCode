@@ -52,7 +52,7 @@ def solution(lines: list[str]):
     for line in lines:
         line = line.replace("\n", '')
         seq = get_seq(line)
-        val = extrapolate_two(seq)
+        val = extrapolate(seq)
         res += val
 
     return res
