@@ -1,4 +1,3 @@
-import copy
 def helper(lines: list[str]) -> list[list[str]]:
     res = []
 
